@@ -1,1 +1,1 @@
-This is rossboehme's first git project!
+Example git project
